@@ -62,3 +62,7 @@
 
 * P.83 ユニットから追い出したい不純物
   * http://alistair.cockburn.us/Hexagonal+architecture
+
+
+# アンケート
+https://docs.google.com/forms/d/e/1FAIpQLScPav1y5asy-AvLIZ6bmnBpSS2xkXolIaZJ3XmHWritnnytQw/viewform
